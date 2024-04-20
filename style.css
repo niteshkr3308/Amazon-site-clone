@@ -1,0 +1,44 @@
+.carousel-control-prev,
+  .carousel-control-next {.carousel-control-prev,
+    .carousel-control-next {
+      background-color: transparent;
+      border-color: #000; 
+      width: 50px; 
+    }
+  
+    .carousel-control-prev-icon,
+    .carousel-control-next-icon {
+      background-image: none;
+      border: 1px solid #000; 
+    }
+  
+    .carousel-control-prev-icon::before,
+    .carousel-control-next-icon::before {
+      display: none;
+    }
+  
+    .carousel-control-prev:hover,
+    .carousel-control-next:hover {
+      background-color: transparent;
+      border-color: #c30303; 
+    }
+    border-color: #000; 
+    width: 50px; 
+    }
+
+  .carousel-control-prev-icon,
+  .carousel-control-next-icon {
+    background-image: none;
+    border: 1px solid #000; 
+  }
+
+  .carousel-control-prev-icon::before,
+  .carousel-control-next-icon::before {
+    display: none;
+  }
+
+  .carousel-control-prev:hover,
+  .carousel-control-next:hover {
+    background-color: transparent;
+    border-color: #ba0b0b; 
+  }
